@@ -13,6 +13,7 @@
 	</style>
 </head>
 <body>
+	<h1><center>Data Penerbangan</center></h1>
 	<table style="margin:20px auto;" border="1">
 		<tr>
 			<th>No</th>

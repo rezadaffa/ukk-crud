@@ -29,7 +29,7 @@
 	img{max-width:100%;}
 /*-- //Reset-Code --*/
 body {
-	background:url('../images/1.jpg') no-repeat 0px 0px;
+	background:url('../images/2.jpg') no-repeat 0px 0px;
 	background-size: cover;
 	font-family: 'Open Sans', sans-serif;
 	background-attachment: fixed;
@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6{
 	
 }
 h1{
-	color:#fff;
+	color:#05c46b;
 	font-size:50px;
 	margin-top:50px;
 	text-align:center;
@@ -66,7 +66,7 @@ h1{
     padding: 15px 0px;
     margin: 0 auto;
     text-align: center;
-	background: #FFC107;
+	background: #05c46b;
 }
 .resp-tab-item {
     font-size: 1.1em;
@@ -112,7 +112,7 @@ form {
 }
 h3 {
     font-size: 16px;
-    color:#FFC107;
+    color:#05c46b;
     margin-bottom: 7px;
 }
 .from,.to,.date,.depart,.return{
@@ -280,7 +280,7 @@ input[type="checkbox"]{
 input[type="submit"] {
     font-size: 14px;
     color: #fff;
-    background:#ffc107;
+    background:#05c46b;
     border: none;
     outline: none;
     padding: 10px 20px;
@@ -336,11 +336,11 @@ form.blackbg{
 .footer-w3l p{
 	font-size:14px;
 	text-align:center;
-	color:#000;
+	color:#686de0;
 	line-height:27px;
 }
 .footer-w3l p a{
-	color:#000;
+	color:#686de0;
 }
 .footer-w3l p a:hover{
 	text-decoration:underline;
